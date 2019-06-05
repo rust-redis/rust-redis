@@ -6,4 +6,9 @@ authors = ["chenkun <chenkun_lws@126.com>"]
 description = "Redis re-implemented in Rust"
 license-file = "LICENSE"
 
+[workspace]
+members = [
+    "resp-parser",
+]
+
 [dependencies]
