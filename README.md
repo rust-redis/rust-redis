@@ -1,2 +1,2 @@
 # rust-redis
-Redis re-implemented in Rust.
+Redis re-implemented in Rust
