@@ -1,6 +1,6 @@
 [package]
 name = "rust-redis"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["chenkun <chenkun_lws@126.com>"]
 edition = "2018"
 
