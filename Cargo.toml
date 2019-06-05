@@ -9,6 +9,7 @@ license-file = "LICENSE"
 [workspace]
 members = [
     "resp-parser",
+    "rust-skiplist",
 ]
 
 [dependencies]

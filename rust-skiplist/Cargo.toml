@@ -1,9 +1,9 @@
 [package]
-name = "resp-parser"
+name = "rust-skiplist"
 version = "0.0.1"
 edition = "2018"
 authors = ["chenkun <chenkun_lws@126.com>"]
-description = "redis protocol parser implemented in rust"
+description = "skiplist implemented in rust"
 license-file = "../LICENSE"
 
 [dependencies]

@@ -8,3 +8,7 @@ version = "0.0.1"
 name = "rust-redis"
 version = "0.0.1"
 
+[[package]]
+name = "rust-skiplist"
+version = "0.0.1"
+
